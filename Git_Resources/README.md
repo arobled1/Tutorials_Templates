@@ -1,6 +1,8 @@
 # Git Resources
+Here you will find solutions to issues that I have come across while using git but have not been able to find an "easy to find" answer. A small table of contents will be made as the number of sections in the README increases.
 
 ## Moving Files
+Description:
 Steps to push files from an old directory which we'll call "repo-A" to a new directory which we'll call "repo-B" while preserving the commit history.
 
 Note: So far, this method will pull in the entire history of your "repo-A" into the new "repo-B". Not just the history of the files you transferred. Update will come soon to fix this issue if you only want to keep specific parts of the history.
